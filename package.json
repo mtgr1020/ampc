@@ -1,6 +1,6 @@
 {
   "name": "ampc",
-  "version": "0.2.4",
+  "version": "0.2.11",
   "description": "automatic publishing your code",
   "main": "lib/ampc.js",
   "scripts": {},
@@ -17,5 +17,12 @@
     "compressing": "^1.4.0",
     "node-ssh": "^6.0.0",
     "string.prototype.padstart": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/mtgr1020/ampc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtgr1020/ampc.git"
   }
 }
