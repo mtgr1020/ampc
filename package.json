@@ -1,0 +1,21 @@
+{
+  "name": "ampc",
+  "version": "0.2.4",
+  "description": "automatic publishing your code",
+  "main": "lib/ampc.js",
+  "scripts": {},
+  "keywords": [
+    "ampc"
+  ],
+  "author": "mtgr1020",
+  "license": "ISC",
+  "bin": {
+    "ampc-cli-service": "bin/ampc-cli-service.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "compressing": "^1.4.0",
+    "node-ssh": "^6.0.0",
+    "string.prototype.padstart": "^3.0.0"
+  }
+}
