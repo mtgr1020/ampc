@@ -17,7 +17,7 @@
   "ampc": "ampc-cli-service"
 ```
 
-这样你就可以使用 npm run ampc 进行文件复制或者推送了，但是当你执行时会报错，因为你需要添加一个ampc.config.js到你的项目目录下。
+这样你就可以使用 npm run ampc 进行文件复制或者推送了，但是当你执行时会报错，因为你需要添加一个ampc.config.js到你的项目目录下,然后 module.exports = {}。
 
 ### ampc.config.js的配置项
 
