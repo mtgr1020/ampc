@@ -1,3 +1,0 @@
-FOFO
-k
-GALA_RN
